@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the death of the Duke of Ormond. An eclogue.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53353</idno><idno type="EEBO-CITATION">99826636</idno>
+  <idno type="VID">31041</idno>
+  <idno type="EEBO-PROQUEST">2248502035</idno>
+  
+            <idno type="STC">Wing O309</idno>
+            <idno type="STC">ESTC R214469</idno>
+            <idno type="PROQUEST">99826636</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826636e"/>
+            <note>(EEBO-TCP ; phase 2, no. A53353)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31041)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1766:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the death of the Duke of Ormond. An eclogue.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by Randal Taylor, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC LXXXVIII. [1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Ormonde, James Butler, --  Duke of, 1610-1688 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31041:1"/>
+            <p>ON THE DEATH OF THE DUKE OF ORMOND. AN ECLOGUE.</p>
+            <q>
+               <p>Daphmin ad astra feremus amavit nos quo{que} Daphnis.</p>
+               <bibl>
+                  <hi>Virg. Eclo.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall.</hi> MDCLXXXVII:</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:31041:2"/>
+            <pb n="1" facs="tcp:31041:2"/>
+            <head>ON THE DEATH OF THE DUKE OF ORMOND.</head>
+            <lg>
+               <l>AND now, ye Muses, (if a Muse there be</l>
+               <l>Alive, and not with grief struck dumb as he,)</l>
+               <l>A Verse is to <hi>Barzillai</hi>'s ashes due,</l>
+               <l>To your <hi>Barzillai</hi> this last kindness shew,</l>
+               <l>
+                  <hi>Bazillai</hi> ever was a friend to you.</l>
+               <l>Weep for <hi>Barzillai,</hi> for <hi>Barzillai</hi>'s dead,</l>
+               <l>Weep for your selves, your friend is with him fled,</l>
+               <l>Weep for your selves, and for <hi>Barzillai</hi> dead.</l>
+            </lg>
+            <pb n="2" facs="tcp:31041:3"/>
+            <lg>
+               <l>Forgive us Saint —</l>
+               <l>If through a Pious Errour led astray,</l>
+               <l>Our Piety should t' Impiety us betray.</l>
+               <l>Forgive us Saint, if we should wish that thou</l>
+               <l>Now dead, a second Fate might'st undergo,</l>
+               <l>That thou might'st dye ev'n in our memories too.</l>
+               <l>
+                  <hi>Barzillai</hi>'s Name nere troubled us before,</l>
+               <l>Now we could wish never to hear it more;</l>
+               <l>Those very Glories which once made him Great,</l>
+               <l>Those very Glories would we now forget,</l>
+               <l>Which only serve to make him more lamented yet,</l>
+               <l>And add to th' Spoils, and Triumphs of his Fate.</l>
+               <l>That bad mens memories irksome were we knew,</l>
+               <l>Here to our cost we find that good mens are so too.</l>
+               <l>Since great <hi>Barzillai</hi>'s Vertues now once past,</l>
+               <l>Are only sad remembrancers of what we've lost,</l>
+               <l>Serve only now just to adorn his Hearse,</l>
+               <l>And be the Subject of a mournful Verse.</l>
+               <l>Weep than ye Muses, for <hi>Barzillai</hi>'s dead,</l>
+               <l>Weep for your selves, your friend is with him fled,</l>
+               <l>Weep for your selves, and for <hi>Barzillai</hi> dead.</l>
+            </lg>
+            <lg>
+               <l>Yes we will grieve —</l>
+               <l>And to stir up our grief, enough 'twill be</l>
+               <l>To think <hi>Barzillai,</hi> of thy acts and thee;</l>
+               <l>There we may read our loss; who lends an ear,</l>
+               <l>Must surely lend an eye, must surely lend a tear.</l>
+               <l>And first, let's him in his Pavilion view,</l>
+               <l>Where he his Sword for his great Master drew:</l>
+               <l>Heavens! with what matchless Courage there he stood</l>
+               <l>And writ the Royal Cause in its Foes Blood;</l>
+               <l>To save his Masters Head, (could that been done)</l>
+               <l>How oft was he in danger of his own!</l>
+               <pb n="3" facs="tcp:31041:3"/>
+               <l>If letting blood could the sick State have cur'd,</l>
+               <l>He drew so much as might our hopes secur'd:</l>
+               <l>And though by gentler means Heav'n gave us ease</l>
+               <l>Nor would that VVar should be the establisher of Peace.</l>
+               <l>Yet this however shall for ever raise</l>
+               <l>To him a monument of Eternal praise,</l>
+               <l>That he a Land (which as our story tells,</l>
+               <l>Is quite exempt from any Poyson else)</l>
+               <l>Did so reduce unto its lawful Prince,</l>
+               <l>He was the first did root out Poyson thenee.</l>
+               <l>See Muses, then is not your Verse his due,</l>
+               <l>Who thus provided for your Verse and you?</l>
+               <l>His Acts and He, how well might you proclaim,</l>
+               <l>The Muses Patron he, and those the Muses Theam.</l>
+               <l>Weep than ye Muses, for <hi>Barzillai</hi>'s dead,</l>
+               <l>Weep for your selves, your friend is with him fled,</l>
+               <l>Weep for your selves, and for <hi>Barzillai</hi> dead.</l>
+            </lg>
+            <lg>
+               <l>When Age had made him less for Action fit,</l>
+               <l>She made him stronger for directing it;</l>
+               <l>And what decaying Nature hath deny'd</l>
+               <l>His Hands, she that to his strong Head supply'd;</l>
+               <l>He his Ag'd Head from bus'ness ne're withdrew,</l>
+               <l>His Head which stronger, as he wiser grew.</l>
+               <l>This held us up too well, thou saw'st it too,</l>
+               <l>Who wouldst thy Hands in's Sacred Blood imbrew.<note place="margin">Blood.</note>
+               </l>
+               <l>None could so Barbarous, so Inhumane be,</l>
+               <l>But one who durst attempt the Crown it self; and he</l>
+               <l>Did then attempt the Crown when he attempted thee.</l>
+               <l>Thy strength of mind and Fortitude was shown,</l>
+               <l>In that thy <hi>Chimham</hi>'s Death was not thy own.<note place="margin">Lord Ossory.</note>
+               </l>
+               <l>(<hi>Chimham,</hi> by Providence sent for fatal ends,</l>
+               <l>Alive to kill his Foes, and dead his Friends.)</l>
+               <l>What Aged Man but thou could stand alone,</l>
+               <l>When his supporting Friend, his Staff was gone?</l>
+               <pb n="4" facs="tcp:31041:4"/>
+               <l>But thou, (thy Ages Comfort ta'ne away,)</l>
+               <l>Thou wanting one thy self, to others wer't a stay.</l>
+               <l>The Crown thy help did need, this thought did give</l>
+               <l>New vigour, and made thee content to live:</l>
+               <l>This thought did keep thee up; the Crown and we</l>
+               <l>VVhom thou so oft supported'st, then supported thee.</l>
+               <l>If Love to <hi>David</hi> held thee up,<note place="margin">King Charles.</note> we now</l>
+               <l>Don't wonder, if when he did fall then thou didst bow.</l>
+               <l>
+                  <hi>Barzillai</hi> since that blow was never well,</l>
+               <l>He stumbled then, though not till now he fell.</l>
+               <l>We saw him when from <hi>Jordan</hi> he came down,</l>
+               <l>To give the New Prince his welcome to the Crown;</l>
+               <l>VVe saw the Good Old Man, he weakly bows,</l>
+               <l>And <hi>David</hi>'s Fate sat heavy on his Brows.</l>
+               <l>Grief having stopt his Mouth, for vent does rise,</l>
+               <l>And in a silent shower it breathes forth at his Eyes;</l>
+               <l>Which trickling down, his Reverend Face bedew,</l>
+               <l>And Grief for th' Old obstructs his Joy for th' New:</l>
+               <l>'Tis now thy turn to be lamented o're,</l>
+               <l>To be deplor'd, as thou didst him deplore.</l>
+               <l>Weep than ye Muses for <hi>Barzillai</hi>'s dead,</l>
+               <l>Weep for your selves, your Friend is with him fled,</l>
+               <l>Weep for your selves, and for <hi>Barzillai</hi> dead.</l>
+            </lg>
+            <lg>
+               <l>His Master calls him, and he must away,</l>
+               <l>His Master could not brook his longer stay:</l>
+               <l>He is not lost, but to his Master giv'n,</l>
+               <l>VVho could not be without his Counsellour in Heaven.</l>
+               <l>
+                  <hi>Barzillai</hi> went before him still till now,</l>
+               <l>And was his Guide to Glory, and Example too;</l>
+               <l>But <hi>David</hi> got the start at the long run,</l>
+               <l>And he his Morning Star, now rose after the Sun:</l>
+               <l>But with his Sun this benefit he shares,</l>
+               <l>That when he set, 'twas in a Sea of tears.</l>
+               <pb n="5" facs="tcp:31041:4"/>
+               <l>If he did ever set —</l>
+               <l>'Tis true indeed, he is no longer here,</l>
+               <l>And so does set to us, but shines more clear</l>
+               <l>And glorious in a brighter Hemisphere.</l>
+               <l>This only loss is ours, not his, and we</l>
+               <l>By his good will should now no losers be;</l>
+               <l>We pardon thee this once, for thou before</l>
+               <l>
+                  <hi>(Barzillai)</hi> ne're wer't Rich, thy Friends and Country Poor.</l>
+               <l>Muses, no more for your <hi>Barzillai</hi> Pity shew,</l>
+               <l>Since he's happy enough to Pity you:</l>
+               <l>Still your own loss, your own sad Fate deplore,</l>
+               <l>Weep for your selves, but for <hi>Barzillai</hi> weep no more.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
